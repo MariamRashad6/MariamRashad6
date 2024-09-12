@@ -17,8 +17,7 @@
   Expected April 2024
 
 - **Frontend Diploma**  
-  *Route*  
-  Expected March 2024  
+  *Route*   
   - HTML, CSS, JavaScript, Bootstrap, React
 
 - **Bachelor’s in Computer Science**  
@@ -102,9 +101,7 @@ October 2023 – Present
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MariamRashad6&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT1XGzH9G0LwD6T5mG/giphy.gif" alt="Snake Animation" />
-</div>
+
 
 
 
