@@ -1,14 +1,22 @@
-<h2 align="left">Hi 👋! My name is Mariam Rashad<br>I am Frontend Developer</h2>
+<h2 align="left">Hi 👋! My name Mariam Rashad</h2>
 
 ###
 
+<h3 align="center">Frontend Devloper</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariamRashad6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3E2a2x6bTg1NDdiYWFteGJmOTFjZG54bGdyOG5pMjc4eHVrMm1pMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J3d3ZpMGxxOHozNTczMTRrYTA4ZTI1NW9uejFsNG5zeHRkdDJlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariamRashad6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -32,7 +40,7 @@
   <a href="mariamrashad062@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mariam-rashad-13428b287" target="_blank">
+  <a href="https://www.linkedin.com/in/mariam-ra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -41,7 +49,6 @@
 
 <br clear="both">
 
-![GitHub Snake Light](github-user-contribution.svg#gh-light-mode-only)
-
+<img src="https://raw.githubusercontent.com/MariamRashad6/MariamRashad6/output/snake.svg" alt="Snake animation" />
 
 ###
