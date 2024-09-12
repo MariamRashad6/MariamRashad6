@@ -103,7 +103,7 @@ October 2023 – Present
 </div>
 
 <div align="center">
-  <img src="https://github.com/MariamRashad6/MariamRashad6/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/xT1XGzH9G0LwD6T5mG/giphy.gif" alt="Snake Animation" />
 </div>
 
 
