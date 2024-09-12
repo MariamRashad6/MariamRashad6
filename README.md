@@ -41,6 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MariamRashad6/MariamRashad6/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](github-user-contribution.svg#gh-light-mode-only)
+
 
 ###
