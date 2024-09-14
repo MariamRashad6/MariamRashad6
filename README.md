@@ -14,7 +14,7 @@
 
 - **Master's in Computer Science (In Progress)**  
   *Arab Academy for Science and Technology*  
-  Expected April 2024
+  April 2024
 
 - **Frontend Diploma**  
   *Route*   
