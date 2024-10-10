@@ -12,7 +12,7 @@
 
 ## 🏫 Education
 
-- **Master's in Computer Science (In Progress)**  
+- **Master's in Computer Science**  
   *Arab Academy for Science and Technology*  
   April 2024
 
