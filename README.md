@@ -16,10 +16,6 @@
   *Arab Academy for Science and Technology*  
   April 2024
 
-- **Frontend Diploma**  
-  *Route*   
-  - HTML, CSS, JavaScript, Bootstrap, React
-
 - **Bachelor’s in Computer Science**  
   *Arab Academy for Science and Technology*  
   September 2019 – July 2023 | GPA: 3.89/4.0
