@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mariam Rashad</h2>
 
 <h3 align="center">Frontend Developer</h3>
----
+
 
 ## 🛠 Skills
 
@@ -64,9 +64,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MariamRashad6&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Mode Snake Animation" />
