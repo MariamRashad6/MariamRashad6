@@ -1,35 +1,6 @@
 <h2 align="left">Hi 👋! My name is Mariam Rashad</h2>
 
 <h3 align="center">Frontend Developer</h3>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariamRashad6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
----
-
-## 🏫 Education
-
-- **Master's in Computer Science**  
-  *Arab Academy for Science and Technology*  
-  April 2024
-
-- **Bachelor’s in Computer Science**  
-  *Arab Academy for Science and Technology*  
-  September 2019 – July 2023 | GPA: 3.89/4.0
-
----
-
-## 💼 Experience
-
-### Teaching Assistant  
-**Egypt Japan University for Science and Technology (EJUST)**  
-October 2023 – Present  
-- Assisted in course preparation and conducted lab tutorials.
-- Relevant Courses: Software Process, Software Design, System Analysis, Embedded Systems, Blockchain.
-
 ---
 
 ## 🛠 Skills
