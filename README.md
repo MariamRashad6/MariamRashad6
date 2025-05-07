@@ -31,10 +31,10 @@
 ## 🚀 Projects
 
 - **[Curehub](https://mariamrashad6.github.io/curehub/)**  
-  CureHub is a modern, responsive hospital management dashboard interface built using HTML, CSS, JavaScript, and Bootstrap.
-  It offers a clean layout for managing patient information, documents and appointments, doctor schedules , ideal for front-end
+  CureHub is a modern, responsive hospital management dashboard interface.It offers a clean layout for
+  managing patient information, documents and appointments, doctor schedules , ideal for front-end
   healthcare system simulations.
-  
+  *Tools:* HTML, CSS, Bootstrap, JS
 
 - **[Devfolio](https://mariamrashad6.github.io/Devfolio/)**  
   Responsive personal portfolio website for showcasing work.  
