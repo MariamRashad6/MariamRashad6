@@ -30,7 +30,7 @@
 
 ## 🚀 Projects
 
-- **[Curehub](https://mariamrashad6.github.io/curehub/)**  
+- **[Curehub](https://github.com/MariamRashad6/curehub)**  
   CureHub is a modern, responsive hospital management dashboard interface.It offers a clean layout for
   managing patient information, documents and appointments, doctor schedules , ideal for front-end
   healthcare system simulations.
