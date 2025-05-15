@@ -30,6 +30,10 @@
 Modern, responsive hospital dashboard UI for managing patients, appointments, and doctor schedules.  
 **Tools:** HTML, CSS, Bootstrap, JS  
 
+### [🎯 Dark Mode Data Analyst Portfolio](https://github.com/MariamRashad6/data-analyst-portfolio)  
+Template for a freelance data analyst portfolio project.  
+**Tools:** HTML, CSS, Bootstrap, JS
+
 ### [👩‍💻 Devfolio](https://mariamrashad6.github.io/Devfolio/)  
 Responsive personal portfolio website for showcasing work.  
 **Tools:** HTML, CSS, Bootstrap  
